@@ -1,0 +1,3 @@
+C:/Users/Cristian/Documents/Information Technology Programming Practice/VSCODE MAIN PATH/CRUD/Ver 0.1/cmake-build-debug/CMakeFiles/Ver_0_1.dir
+C:/Users/Cristian/Documents/Information Technology Programming Practice/VSCODE MAIN PATH/CRUD/Ver 0.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Cristian/Documents/Information Technology Programming Practice/VSCODE MAIN PATH/CRUD/Ver 0.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
